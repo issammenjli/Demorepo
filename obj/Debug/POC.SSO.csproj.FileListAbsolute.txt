@@ -1,0 +1,4 @@
+D:\DEV\POC\POC.SSO\bin\POC.SSO.dll
+D:\DEV\POC\POC.SSO\bin\POC.SSO.pdb
+D:\DEV\POC\POC.SSO\obj\Debug\POC.SSO.dll
+D:\DEV\POC\POC.SSO\obj\Debug\POC.SSO.pdb
